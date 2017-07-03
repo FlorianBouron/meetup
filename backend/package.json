@@ -16,12 +16,16 @@
     "babel-preset-stage-0": "^6.24.1",
     "babel-register": "^6.24.1",
     "body-parser": "^1.17.2",
+    "eslint": "^4.1.1",
     "express": "^4.15.3",
     "mongoose": "^4.11.0",
     "morgan": "^1.8.2",
     "nodemon": "^1.11.0"
   },
   "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb-base": "^11.2.0",
+    "eslint-plugin-import": "^2.2.0",
     "nodemon": "^1.11.0"
   }
 }

@@ -1,1 +1,2 @@
-export * from './meetups';
+export MeetupRoutes from './meetups';
+export GroupRoutes from './groups';
